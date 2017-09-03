@@ -1,6 +1,6 @@
 # TestGitHub
 Github Tutorial
 
-print "Hello Universe"
+Instructions will follow as the project progresses along.
 
 
